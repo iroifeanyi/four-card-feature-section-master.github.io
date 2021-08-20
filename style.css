@@ -166,3 +166,8 @@ body{
         margin-left: 23px;
     }
 }
+@media screen and (max-width: 339px){
+    .main-box{
+        margin-right: 27px;
+    }
+}
